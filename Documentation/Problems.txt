@@ -2,3 +2,5 @@ Working in Linux environment.
 Using Ubuntu Bionic Beaver (development branch) 18.04
 Currently facing many problems as I'm not a developer or anyone near.
 Anyway this environment is so relaxing but not so user friendly.
+These changes are made via "Atom Editor".
+Atom contains git functions.

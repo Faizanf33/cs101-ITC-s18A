@@ -4,3 +4,6 @@ Currently facing many problems as I'm not a developer or anyone near.
 Anyway this environment is so relaxing but not so user friendly.
 These changes are made via "Atom Editor".
 Atom contains git functions.
+Using git via atom editor is far better and easy to push or pull or commit.
+I would like to recommend you all to start using atom if you are seeing my document.
+I hope it's helpfull.
